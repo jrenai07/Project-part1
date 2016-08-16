@@ -1,0 +1,41 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+#wrap {
+    width: 900px;
+    margin: 0 auto;
+}
+
+body {
+    font-size: 18px;
+}
+
+article {
+    max-width: 900px;
+}
+
+h1 {
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+img {
+    max-width: 100%;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+}
